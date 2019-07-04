@@ -1,0 +1,1 @@
+This file should only hold images (.png where possible)

@@ -1,0 +1,1 @@
+This file should only hold .wav files (so they can be used by the browser).

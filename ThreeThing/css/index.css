@@ -1,0 +1,28 @@
+* { margin:0; padding:0; } /* to remove the top and left whitespace */
+
+html, body { width:100%; height:100%; } /* just to be sure these are full screen*/
+canvas { display:block;
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+	margin-top:30px;
+	} /* To remove the scrollbars */
+
+body{
+	font-family:"calibri";
+	background-color:#6495ED;
+}
+.rightText{
+	position:fixed;
+	left:1292px;
+	top:8px;
+	margin-left:4px;
+	width:614px;
+	height:720px;
+}
+
+div{
+	background-color:#ffa15c;
+	
+}

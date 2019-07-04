@@ -1,0 +1,17 @@
+JavaScript Cheat Sheet
+
+var ObjectName = (function(){
+	function ObjectName(){
+		
+	};
+
+	return ObjectName;
+})();
+
+this.variable <- variable is public (can be accessed using objectName.variable)
+var variable <- variable is private (requires getters and setters for manipulation)
+
+numbers in JavaScipt are defined as 64 bit floats (doubles)
+if doing financial calculations, multiply by 100, do operations then divide by 100 (preserves decimals).
+
+context.globalAlpha = 0.5; <- can be used to add transparency to drawings (good for cheap effects)
